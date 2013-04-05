@@ -9,6 +9,7 @@ source ~/Projects/antigen/antigen.zsh
 antigen-lib
 antigen-bundle git
 antigen-bundle osx
+antigen-bundle autojump
 antigen-bundle zsh-users/zsh-syntax-highlighting
 antigen-theme sas71/zsh-stuff sas
 antigen-apply
